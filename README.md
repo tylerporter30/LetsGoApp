@@ -20,11 +20,7 @@ To-do list:
 * Update mapping capabilities to check for the location of the user and return events in the area. 
 
 ## Getting Started
-   
-
-
-## Usage
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+https://github.com/tylerporter30/Project1-LetsGo   
 
 ## Contributors
 * Khaled Khalil
