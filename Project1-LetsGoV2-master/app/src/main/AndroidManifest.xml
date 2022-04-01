@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.project1_letsgov2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Project1LetsGoV2">
+        <activity
+            android:name=".CreateAccount"
+            android:exported="false"
+            android:label="@string/title_activity_create_account"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".ForgotPassword"
+            android:exported="false"
+            android:label="@string/title_activity_forgot_password"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".UpdateProfile"
+            android:exported="false"
+            android:label="UpdateProfile"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".DeleteAccount"
+            android:exported="false"
+            android:label="DeleteAccount"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".Friends"
+            android:exported="false"
+            android:label="Friends"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".CommunitiesManage"
+            android:exported="false"
+            android:label="CommunitiesManage"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".CommunitiesCreate"
+            android:exported="false"
+            android:label="CommunitiesCreate"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".EventsManage"
+            android:exported="false"
+            android:label="EventsManage"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".EventsCreate"
+            android:exported="false"
+            android:label="EventsCreate"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".UpdateProfile"
+            android:exported="false"
+            android:label="UpdateProfile"
+            android:theme="@style/Theme.Project1LetsGoV2" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Project1LetsGoV2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>
