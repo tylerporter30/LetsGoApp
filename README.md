@@ -13,14 +13,17 @@ This is a local mobile application that gives users a platform to create and fin
 List of features ready and TODOs for future development
 * Users can sign up for an account and login.
 
-
 To-do list:
 * Allow users to store their created events in a database. 
 * Allow users to sign up for an event and store the information in a database. 
 * Update mapping capabilities to check for the location of the user and return events in the area. 
 
+
 ## Getting Started
-https://github.com/tylerporter30/Project1-LetsGo   
+1. Install and Android Studio
+2. Download the project: git clone https://github.com/tylerporter30/Project1-LetsGo
+3. Import the project into Android Studio.
+4. Build and run the project.
 
 ## Contributors
 * Khaled Khalil
