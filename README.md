@@ -1,5 +1,4 @@
-# PROJECT NAME
-Let’s Go 
+# LET'S GO
 
 ## Project Description
 This is a local mobile application that gives users a platform to create and find community sporting events in their area. The application allows for users to search for an activity based on their location or by type of event. When the user finds an event of interest, they are able to sign up to participate in that event. The user can create an event of their own for others to sign up for as well. Because of the convenience of 'Let's Go', users can easily locate community events even when they are traveling to other locations. It is the destination for involvement in community sports. 
@@ -26,6 +25,6 @@ To-do list:
 4. Build and run the project.
 
 ## Contributors
-* Khaled Khalil
-* Tyler Porter
-* Kevin Weakley 
+* Khaled Khalil (https://github.com/KhaledK1123)
+* Tyler Porter (https://github.com/tylerporter30)
+* Kevin Weakley (https://github.com/Kevin-Weakley) 
